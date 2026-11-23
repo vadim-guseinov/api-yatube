@@ -11,7 +11,7 @@
 
 </div>
 
-> Первая версия API Yatube. Расширенная версия с JWT, подписками и пагинацией — **[api-final-yatube](https://github.com/JuliaDJ1/api-final-yatube)**.
+> Первая версия API Yatube. Расширенная версия с JWT, подписками и пагинацией — **[api-final-yatube](https://github.com/vadim-guseinov/api-final-yatube)**.
 
 ## О проекте
 
@@ -33,7 +33,7 @@ Python 3.12 · Django 5.1 · Django REST Framework · TokenAuthentication · SQL
 **Требования:** Python 3.10+ (проверено на 3.12).
 
 ```bash
-git clone https://github.com/JuliaDJ1/api-yatube.git
+git clone https://github.com/vadim-guseinov/api-yatube.git
 cd api-yatube
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
